@@ -14,11 +14,11 @@
 
 - 使用技術：
 
-  1.Python爬蟲
-  1.R、Excel資料整理
-  1.Jieba斷詞
-  1.情感分析(SnowNLP)
-  1.關聯性分析(textrank)
+  1. Python爬蟲
+  1. R、Excel資料整理
+  1. Jieba斷詞
+  1. 情感分析(SnowNLP)
+  1. 關聯性分析(textrank)
 
 - 分析結果與發現：
 
