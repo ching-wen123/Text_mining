@@ -6,13 +6,15 @@
 ### [結果呈現](https://github.com/ching-wen123/text_mining/blob/master/%E6%9D%B1%E5%90%B3%E5%A4%A7%E5%AD%B8%E8%A9%95%E5%83%B9%20.pdf)
 
 - 專案流程：
-1.資料來源確定及資料爬取、篩選(/br)
-2.評價情感分析及評價分類
-3.評價內容詳細分析
-4.提出改進方案
+
+1. 資料來源確定及資料爬取、篩選
+2. 評價情感分析及評價分類
+3. 評價內容詳細分析
+4. 提出改進方案
 
 - 使用技術：
-1.Python、R語言爬蟲
-2.Jieba斷詞
-3.情感分析(SnowNLP)
-4.關聯性分析(textrank)
+
+1. Python、R語言爬蟲
+2. Jieba斷詞
+3. 情感分析(SnowNLP)
+4. 關聯性分析(textrank)
