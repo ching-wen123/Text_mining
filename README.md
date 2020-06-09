@@ -14,7 +14,8 @@
 
 - 使用技術：
 
-1. Python、R語言爬蟲
-2. Jieba斷詞
-3. 情感分析(SnowNLP)
-4. 關聯性分析(textrank)
+1. Python爬蟲
+2. R、Excel資料整理
+3. Jieba斷詞
+4. 情感分析(SnowNLP)
+5. 關聯性分析(textrank)
